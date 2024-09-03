@@ -3,3 +3,6 @@ Simple **Conway's Game of Life** implementation using C++ and OpenGL. All the co
 
 ## Screenshot of the simulation
 ![Game Of Life 9_3_2024 2_05_17 PM](https://github.com/user-attachments/assets/bc7fd639-f341-4409-8038-3865be9d2cbe)
+
+## License
+[MIT License](https://github.com/BinAl-Sadiq/OpenGL-Game-Of-Life/blob/main/LICENSE)
